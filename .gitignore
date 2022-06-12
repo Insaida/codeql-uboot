@@ -1,2 +1,5 @@
 # CodeQL compilation caches
 .cache/
+
+# Data store
+.DS_Store
